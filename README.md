@@ -1,4 +1,4 @@
-[![LICENSE](https://img.shields.io/badge/license-GNU-green.svg)]()
+[![LICENSE](https://img.shields.io/badge/license-GNU-green.svg)](https://github.com/Atraci/Atraci-Angular/blob/master/LICENSE)
 [![Gitter](https://img.shields.io/badge/chat-gitter-ff69b4.svg)](https://gitter.im/Atraci/Atraci-Angular)
 [![STATE](https://img.shields.io/badge/state-alpha-blue.svg)]()
 
