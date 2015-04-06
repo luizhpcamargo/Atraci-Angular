@@ -16,7 +16,7 @@ In order to start working on this repository, you will have to do the following 
   ```
   npm install
   ```
-- when finished install node modules, on gulpfile.js, change PLATFORM const to the platform you are working on:
+- when finished installing node modules, on gulpfile.js, change PLATFORM const to the platform you are working on:
   ```
   const PLATFORM = "win64"; // all/osx32/osx64/win32/win64/linux32/linux64
   ```
