@@ -26,7 +26,7 @@
     "node-webkit-builder": "^1.0.6",
     "node-webkit-updater": "0.2.3",
     "request": "2.51.0",
-    "underscore": "1.7.0",
+    "underscore": "1.13.2",
     "youtube-api": "^0.3.2",
     "youtube-dl": "^1.8.0"
   },
